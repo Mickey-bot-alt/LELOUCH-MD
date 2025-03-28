@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=LELOUCH-+MD+WHATSAPP+BOT+MD" alt="LELOUCH-MD WHATSAPP BOT MD"></a>
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=LELOUCH-+MD+WHATSAPP+BOT+MD" alt="LELOUCH-MD WHATSAPP BOT "></a>
 </p>
 
 ## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
@@ -43,7 +43,7 @@
    
   2..DEPLOY ON RENDER ⤵️
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/kingmalvin/LELOUCH-MD.git)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Mickey-bot-alt/LELOUCH-MD.git)
 
 
    3..DEPLOY ON GITHUB ⤵️
