@@ -36,11 +36,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-2. **Obtain the Session ID:** After accessing the URL, you should see a session ID displayed. Copy this session ID.
-
   1. **DEPLOY ON HEROKU ⤵️**
-
- 1..DEPLOY ON HEROKU ⤵️
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FLELOUCH-MD) 
    
@@ -102,11 +98,5 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF LELOUCH-MD 
-- [Lord Malvin ](https://github.com/techlord01)
+- [Lord Malvin ](https://github.com/Mickey-bot-alt)
 - Creater and Owner Of LELOUCH-MD
-
-> LELOUCH-MD Helper
-- [Malvin King](https://github.com/kingmalvn)
-- For helping in bot plugin files.
----
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
