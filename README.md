@@ -98,5 +98,5 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF LELOUCH-MD 
-- [Lord Malvin ](https://github.com/Mickey-bot-alt)
+- [LELOUCH ](https://github.com/Mickey-bot-alt)
 - Creater and Owner Of LELOUCH-MD
